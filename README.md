@@ -20,13 +20,13 @@
 * Find Digits : [Challenge](https://www.hackerrank.com/challenges/find-digits/problem), [Solution](./Implementation/FindDigits.js)
 
 ## String
-* Super Reduced String
-* CamelCase
-* Caesar Cipher
+* Super Reduced String : [Challenge](https://www.hackerrank.com/challenges/reduced-string/problem), [Solution](./String/SuperReducedString.js)
+* CamelCase : [Challenge](https://www.hackerrank.com/challenges/camelcase/problem), [Solution](./String/CamelCase.js)
+* Caesar Cipher : [Challenge](https://www.hackerrank.com/challenges/caesar-cipher-1/problem), [Solution](./String/CaesarCipher.js)
 
 ## Sorting
-* Intro to Tutorial Challenges
-* Insertion Sort - Part 1
-* Quicksort 1 - Partition
+* Intro to Tutorial Challenges : [Challenge](https://www.hackerrank.com/challenges/tutorial-intro/problem), [Solution](./Sorting/IntroToTutorialChallenges.js)
+* Insertion Sort - Part 1 : [Challenge](https://www.hackerrank.com/challenges/insertionsort1/problem), [Solution](./Sorting/InsertionSortPart1.js)
+* Quicksort 1 - Partition : [Challenge](https://www.hackerrank.com/challenges/quicksort1/problem), [Solution](./Sorting/Quicksort1Partition.js)
 
 ## Search
