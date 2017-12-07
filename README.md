@@ -30,3 +30,4 @@
 * Quicksort 1 - Partition : [Challenge](https://www.hackerrank.com/challenges/quicksort1/problem), [Solution](./Sorting/Quicksort1Partition.js)
 
 ## Search
+* Ice Cream Parlor : [Challenge](https://www.hackerrank.com/challenges/icecream-parlor/problem), [Solution](./Search/IceCreamParlor.js)
