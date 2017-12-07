@@ -1,16 +1,16 @@
 # Hackerrank Algorithms Solution in Javascript
 
 ## Warmup
-* Solve Me First : 
-* Simple Array Sum
-* Compare the Triplets
-* A Very Big Sum
-* Diagonal Difference
-* Plus Minus
-* Staircase
-* Mini-Max Sum
-* Birthday Cake Candles
-* Time Conversion
+* Solve Me First : [Challenge](https://www.hackerrank.com/challenges/solve-me-first/problem), [Solution](./Warmup/SolveMeFirst.js)
+* Simple Array Sum : [Challenge](https://www.hackerrank.com/challenges/simple-array-sum/problem), [Solution](./Warmup/SimpleArraySum.js)
+* Compare the Triplets : [Challenge](https://www.hackerrank.com/challenges/compare-the-triplets/problem), [Solution](./Warmup/CompareTheTriplets.js)
+* A Very Big Sum : [Challenge](https://www.hackerrank.com/challenges/a-very-big-sum/problem), [Solution](./Warmup/AVeryBigSum.js)
+* Diagonal Difference : [Challenge](https://www.hackerrank.com/challenges/diagonal-difference/problem), [Solution](./Warmup/DiagonalDifference.js)
+* Plus Minus : [Challenge](https://www.hackerrank.com/challenges/plus-minus/problem), [Solution](./Warmup/PlusMinus.js)
+* Staircase : [Challenge](https://www.hackerrank.com/challenges/staircase/problem), [Solution](./Warmup/Staircase.js)
+* Mini-Max Sum : [Challenge](https://www.hackerrank.com/challenges/mini-max-sum/problem), [Solution](./Warmup/MiniMaxSum.js)
+* Birthday Cake Candles : [Challenge](https://www.hackerrank.com/challenges/birthday-cake-candles/problem), [Solution](./Warmup/BirthdayCakeCandles.js)
+* Time Conversion : [Challenge](https://www.hackerrank.com/challenges/time-conversion/problem), [Solution](./Warmup/TimeConversion.js)
 
 ## Implementation
 * Grading Students : [Challenge](https://www.hackerrank.com/challenges/grading/problem), [Solution](./Implementation/GradingStudents.js)
